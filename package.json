@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Pasuthorn-Pro/fullstack--268-S01#readme",
   "devDependencies": {
-    "prettier": "^3.7.4"
+    "prettier": "^3.8.1"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
