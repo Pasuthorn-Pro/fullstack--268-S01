@@ -22,6 +22,10 @@ let books = [
     }
 ];
 
+app.get("/", (req, res) => {
+  res.send("Hello World Book!!!");
+});
+
 app.get('/books', (req, res) => {
     res.json(books);
 });
